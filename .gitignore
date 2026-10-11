@@ -1,0 +1,17 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+*.user
+*.suo
+.vs/
+.idea/
+
+# Logs
+*.log
+
+# Temp
+tmp/
+temp/
